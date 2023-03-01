@@ -19,5 +19,6 @@ Relacionar posts con:
 SQL -> **MySQL**
 ### Desarrolladores:
 @**IanCristianAriel**
+
 ###Licencia
 Fundamentos de bases de datos, Israel Vázquez Morales : https://platzi.com/cursos/bd/
