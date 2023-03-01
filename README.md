@@ -20,5 +20,6 @@ SQL -> **MySQL**
 ### Desarrolladores:
 @**IanCristianAriel**
 
-###Licencia
+### Licencia
+
 Fundamentos de bases de datos, Israel Vázquez Morales : https://platzi.com/cursos/bd/
